@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, cyber security, hacking, penertration testing, coding, game developing and more.
 - 🌱 I’m currently learning about cyber security, hacking and penertation testing. 
 - 💞️ I’m looking to collaborate on coding and making a game in the future with a friend.
-- 📫 How to reach me - Discord: Ghosted Hunter#7740
+- 📫 How to reach me - Discord: Master CJ#9323
 
 <!---
 XSanjayPatelX/XSanjayPatelX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
