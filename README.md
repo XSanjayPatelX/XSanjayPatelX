@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XSanjayPatelX
 - 👀 I’m interested in gaming, cyber security, hacking, penetration testing, coding, game developing and more.
-- 🌱 I’m currently learning about cyber security, hacking and penetration testing. 
+- 🌱 I’m currently learning about cyber security, hacking, penetration testing and coding. 
 - 💞️ I’m looking to collaborate on coding and making a game in the future.
 - 📫 How to reach me - Discord: Master CJ#9323
 
