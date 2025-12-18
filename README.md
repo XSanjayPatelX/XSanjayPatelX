@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sanjay and I'm a Cyber Security Student, from the UK.</h2>
+<h2 align="left">Hi 👋! My name is Sanjay and I'm a Cyber Security Graduate, from the UK.</h2>
 
 ###
 
